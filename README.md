@@ -36,7 +36,7 @@
   </p>
 
   <p align="center">
-    <a href="https://arxiv.org/abs/2601.03467"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-2512.19539-b31b1b.svg"></a>
+    <a href="https://arxiv.org/abs/2601.03467"><img alt='arXiv' src="https://img.shields.io/badge/arXiv-2601.03467-b31b1b.svg"></a>
     <a href="https://echopluto.github.io/ThinkRL-page/"><img alt='page' src="https://img.shields.io/badge/Project-Website-orange"></a>
   <a href="https://huggingface.co/Pluto5/ThinkRL"><img alt="Huggingface" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-orange"></a>
     <!-- <a href="https://twitter.com/sze68zkw"><img alt='Twitter' src="https://img.shields.io/twitter/follow/sze68zkw?label=%40KaiwenZhang"></a> -->
