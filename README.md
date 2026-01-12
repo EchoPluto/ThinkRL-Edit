@@ -27,7 +27,7 @@
                 <a href="https://scholar.google.com/citations?user=AqDe35sAAAAJ&hl=zh-CN" target="_blank">Boxi Wu</a><sup>§</sup>,
               </span>
               <span class="author-block">
-                <a href="https://xingangpan.github.io/" target="_blank">Deng Cai</a><
+                <a href="https://xingangpan.github.io/" target="_blank">Deng Cai</a>
   </p>
 
   <p align="center">
