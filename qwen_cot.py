@@ -171,7 +171,7 @@ Provide the rewrited instruction in the following JSON format:
 """
 from io import BytesIO
 import base64
-root_dir = '/mnt/bn/voyager-useast/users/hengjia.li/Kris_Bench/KRIS_Bench'
+root_dir = 'Kris_Bench/KRIS_Bench'
 def pil_image_to_base64(image):
     buffered = BytesIO()
     image.save(buffered, format="PNG")
