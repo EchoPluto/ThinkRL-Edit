@@ -9,10 +9,10 @@
                 <a href="https://liming-jiang.com/" target="_blank">Liming Jiang</a><sup>✝</sup>,
               </span>
               <span class="author-block">
-                <a href="https://scholar.google.com/citations?user=IUj5R3EAAAAJ&hl=en" target="_blank">Yizhi Song</a>,
+                <a href="https://scholar.google.com/citations?user=0TIYjPAAAAAJ&hl=en" target="_blank">Qing Yan</a>,
               </span>
               <span class="author-block">
-                <a href="https://scholar.google.com/citations?user=0TIYjPAAAAAJ&hl=en" target="_blank">Qing Yan</a>,
+                <a href="https://scholar.google.com/citations?user=IUj5R3EAAAAJ&hl=en" target="_blank">Yizhi Song</a>,
               </span>
               <span class="author-block">
                 <a href="https://scholar.google.com/citations?user=VeTCSyEAAAAJ" target="_blank">Hao Kang</a>,
